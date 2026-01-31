@@ -33,17 +33,17 @@ Estudiante de Computer Science (CS) enfocado en **Ciberseguridad**, **Hardware H
 
 ### 🚀 Proyectos Destacados
 
-**🔍 [DermaSkinAI]((https://github.com/JaraOps/DermaSkinAI))**
+**🔍 [DermaSkinAI]([LINK_A_TU_REPO] (https://github.com/JaraOps/DermaSkinAI))**
 *Diagnóstico médico seguro impulsado por IA.*
 * **Tech:** Python, TensorFlow, Computer Vision.
 * **Seguridad:** Privacidad de datos médicos y análisis local.
 
-**🛰️ [AstroSight (NASA Space Apps)]((https://github.com/JaraOps/AstroSight))**
+**🛰️ [AstroSight (NASA Space Apps)]([LINK_A_TU_REPO] (https://github.com/JaraOps/AstroSight))**
 *Análisis de datos satelitales en tiempo real.*
 * **Tech:** Python, NASA API, Data Processing.
 * **Logro:** Proyecto Solo - NASA Space Apps Challenge.
 
-**🦻 [Listening Helper PWA]((https://github.com/JaraOps/listening-helper))**
+**🦻 [Listening Helper PWA]([LINK_A_TU_REPO] (https://github.com/JaraOps/listening-helper))**
 *Aplicación de accesibilidad para adultos mayores con pérdida auditiva.*
 * **Tech:** JavaScript (Vanilla), Web Speech API, Wake Lock API.
 * **Impacto:** Transcripción en tiempo real con alto contraste (WCAG AAA) y soporte offline.
