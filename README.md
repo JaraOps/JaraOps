@@ -58,4 +58,3 @@ Auditoría de seguridad básica, automatización y hardware.
 * 📧 **Correo:** contacto@jaraops.dev
 * 📍 **Base:** Vancouver, BC / Santiago, CL
 
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaraOps&show_icons=true&theme=tokyonight&locale=es)
