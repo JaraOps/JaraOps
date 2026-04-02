@@ -33,7 +33,7 @@ Estudiante de Computer Science (CS) enfocado en **Ciberseguridad**, **Hardware H
 
 ### 🚀 Proyectos Destacados
 
-**🔍 [DermaSkinAI]([https://github.com/JaraOps/DermaSkinAI])**
+**🔍 [DermaSkinAI]([LINK_A_TU_REPO] (https://github.com/JaraOps/DermaSkinAI))**
 *Diagnóstico médico seguro impulsado por IA.*
 * **Tech:** Python, TensorFlow, Computer Vision.
 * **Seguridad:** Privacidad de datos médicos y análisis local.
