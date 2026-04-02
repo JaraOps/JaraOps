@@ -1,9 +1,8 @@
 # Hola, soy Ignacio Jara 👋
 
 ### 🇨🇱 Desarrollador de Software & Especialista en Seguridad 🇨🇦
-**Fundador de [JaraOps.dev](https://jaraops.dev)** | *Desarrollo con Estándar Norteamericano.*
 
-Estudiante de Computer Science (CS) enfocado en **Ciberseguridad**, **Hardware High-End** e **Inteligencia Artificial**. Ayudo a empresas a blindar sus datos y modernizar flujos de trabajo con código seguro.
+Estudiante de Computer Science (CS) enfocado en **Ciberseguridad**, **Hardware High-End** e **Inteligencia Artificial**.
 
 ---
 
@@ -51,11 +50,8 @@ Estudiante de Computer Science (CS) enfocado en **Ciberseguridad**, **Hardware H
 
 ---
 
-### 💼 Servicios y Contacto
+### 💼 Contacto
 
-Auditoría de seguridad básica, automatización y hardware.
-
-* 🌐 **Portafolio:** [jaraops.dev](https://jaraops.dev)
-* 📧 **Correo:** contacto@jaraops.dev
-* 📍 **Base:** Vancouver, BC / Santiago, CL
+* 📧 **Correo:** ignaciojara731@gmail.com
+* 📍 **Base:** Antofagasta, CL
 
