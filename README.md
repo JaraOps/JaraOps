@@ -1,6 +1,6 @@
 # Hola, soy Ignacio Jara 👋
 
-### 🇨🇱 Desarrollador de Software & Especialista en Seguridad 🇨🇦
+### Desarrollador de Software & Especialista en Seguridad
 
 Estudiante de Computer Science (CS) enfocado en **Ciberseguridad**, **Hardware High-End** e **Inteligencia Artificial**.
 
